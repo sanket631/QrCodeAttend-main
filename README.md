@@ -65,6 +65,6 @@
 <p>Currently, the primary focus is on the Student-College system. Future updates will extend the functionality to include Employee-Office and Invitee-Event systems.</p>
 
 <h2>Contact</h2>
-<p>For any queries or support, please contact us at praveenrajpurak@gmail.com </p>
+<p>For any queries or support, please contact us at kumarsanket631@gmail.com </p>
 
 </body>
